@@ -54,8 +54,11 @@ I’m always open to collaborations or discussions about data analytics. Let’s
 
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/favour-uloh)  
 - **Notion Portfolio**: [Your Notion Page](https://your-notion-page.com)  
+ 
+
 
 ---
 
-## 📂 Repository Structure  
+This portfolio reflects my journey and growth as a data analyst. I aim to demonstrate not only my technical proficiency but also my ability to interpret data and derive meaningful insights.  
 
+Thank you for exploring my portfolio! 🚀  
