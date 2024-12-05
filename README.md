@@ -13,7 +13,8 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 - **Outcome**: Identified insights that helped in understanding customer preferences, popular cuisines, and pricing strategies.  
 
 *Screenshot:*  
-![Restaurant Analysis Dashboard](./screenshots/restaurant_analysis.png)  
+![Restaurant Analysis Dashboard](https://github.com/user-attachments/assets/fc54580a-8787-4100-a04f-9ffa4509ebf9)
+
 
 ---
 
@@ -23,10 +24,9 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 - **Outcome**: Highlighted gender and age groups most prone to mental health challenges and their effects on academic performance, providing actionable recommendations for student support.  
 
 *Screenshot:*  
-![Student Mental Health Dashboard](./screenshots/student_mental_health.png)  
-[View Project Repository](https://github.com/your-repo/Student_Mental_Health)  
+![Student Mental Health Dashboard](https://github.com/user-attachments/assets/53ebfc7f-b3e2-4c76-b979-35e771b04ee2)
 
----
+
 
 ### 3. Employee Data Analysis  
 - **Tools Used**: Excel  
@@ -34,8 +34,8 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 - **Outcome**: Designed a simple yet effective dashboard for tracking and analysing employee data, helping HR teams identify trends and optimise workforce management.  
 
 *Screenshot:*  
-![Employee Data Dashboard](./screenshots/employee_data.png)  
-[View Project Repository](https://github.com/your-repo/Employee_Data)  
+![Employees](https://github.com/user-attachments/assets/1494fb50-8ac3-4a3d-b8b5-edeb2656f5cc)
+
 
 ---
 
