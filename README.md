@@ -52,7 +52,7 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 
 I’m always open to collaborations or discussions about data analytics. Let’s connect!  
 
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/favour-uloh)  
+- **LinkedIn**: [Favour Uloh](https://linkedin.com/in/favour-uloh)  
 - **Notion Portfolio**: [Your Notion Page](https://your-notion-page.com)  
  
 
