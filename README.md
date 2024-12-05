@@ -13,7 +13,7 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 - **Outcome**: Identified insights that helped in understanding customer preferences, popular cuisines, and pricing strategies.  
 
 *Screenshot:*  
-![Restaurant Analysis Dashboard](https://github.com/user-attachments/assets/fc54580a-8787-4100-a04f-9ffa4509ebf9)
+![Restaurant Analysis Dashboard](https://github.com/user-attachments/assets/1bf8688e-2b91-412b-8708-888f4f8f3fce)
 
 
 ---
@@ -24,7 +24,7 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 - **Outcome**: Highlighted gender and age groups most prone to mental health challenges and their effects on academic performance, providing actionable recommendations for student support.  
 
 *Screenshot:*  
-![Student Mental Health Dashboard](https://github.com/user-attachments/assets/53ebfc7f-b3e2-4c76-b979-35e771b04ee2)
+![Student Mental Health Dashboard](https://github.com/user-attachments/assets/c2893b53-ebb6-43f7-af6f-281737713f6a)
 
 
 
@@ -34,7 +34,8 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 - **Outcome**: Designed a simple yet effective dashboard for tracking and analysing employee data, helping HR teams identify trends and optimise workforce management.  
 
 *Screenshot:*  
-![Employees](https://github.com/user-attachments/assets/1494fb50-8ac3-4a3d-b8b5-edeb2656f5cc)
+![Employees](https://github.com/user-attachments/assets/4050b54e-e5b4-4697-b95c-a1164ccee546)
+
 
 
 ---
@@ -53,7 +54,7 @@ I'm **Favour**, a passionate data analyst skilled in Python, Power BI, and Excel
 I’m always open to collaborations or discussions about data analytics. Let’s connect!  
 
 - **LinkedIn**: [Favour Uloh](https://linkedin.com/in/favour-uloh)  
-- **Website**: ([https://your-notion-page.com](https://bit.ly/favouruloh))  
+- **Website**: [Favour Uloh](https://bit.ly/favouruloh)  
  
 
 
