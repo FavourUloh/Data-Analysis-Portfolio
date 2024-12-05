@@ -1,4 +1,3 @@
-# Data-Analysis-Portfolio
 # Data-Analytics-Portfolio
 A showcase of my data analytics projects, including dashboards and Python scripts,
 
